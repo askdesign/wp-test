@@ -1,2 +1,2 @@
 # wp-test
-testing a wordpress repository
+exploring and testing a wordpress repository
